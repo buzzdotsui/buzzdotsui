@@ -1,5 +1,4 @@
 # Hi there! 👋 I'm Buzz
-<p align="left"> <img src="https://media.giphy.com/media/hvRJCLFzWSCCxJLpEX/giphy.gif" width="60" /> </p>
 
 ### 💻 About Me
 
@@ -51,8 +50,20 @@
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
 </p>
 
-### 🌐 Connect with Me
+### 🌐 Let's Connect
 
 <p align="left">
-  <a href="https://testytech.42web.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Badge"/></a>
-  <a href="https://
+  <a href="https://testytech.42web.io">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
+  <a href="https://x.com/_buzzdotsui">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/testytech_pr">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+---
+
+> **Fun Fact:** When I'm not securing code, I love getting behind the lens—I'm passionate about **photography and videography**!
