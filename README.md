@@ -11,8 +11,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Buzzdotsui&show_icons=true&theme=vue&hide_border=true&bg_color=00000000" alt="Buzzdotsui's GitHub Stats" />
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Buzzdotsui&theme=dark&hide_border=true&background=00000000" alt="Buzzdotsui's Streak" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Buzzdotsui&layout=compact&theme=vue&hide_border=true&bg_color=00000000" alt="Buzzdotsui's Top Languages" />
 </p>
 
 ---
