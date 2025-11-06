@@ -15,14 +15,20 @@
 
 ### 🛡️ Cybersecurity & Certifications
 
-As an ethical hacker, I focus on securing digital systems and finding creative solutions to complex challenges.
+<p align="left">
+  <img src="https://img.shields.io/badge/Kali_Linux-5578A6?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Penetration_Testing-000000?style=for-the-badge&logo=testing-library&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vulnerability_Analysis-851C6E?style=for-the-badge&logo=kofi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Network_Security-3F729E?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web_Application_Hacking-006400?style=for-the-badge&logo=gnuprivacyguard&logoColor=white" />
+</p>
 
-* **Security Skills:** `Kali Linux` / `Penetration Testing` / `Vulnerability Analysis` / `Network Security` / `Web Application Hacking`
-* **Certifications:**
-    * **Certified Ethical Hacker (CEH)** - EC-Council
-    * **OSCP** - Offensive Security
-    * **CompTIA Security+** - CompTIA
-    * **CCNA** / **CCNP** - Cisco
+<p align="left">
+  <img src="https://img.shields.io/badge/Certified_Ethical_Hacker-FF5733?style=for-the-badge&logo=certifcatenumber-certifcate&logoColor=white" />
+  <img src="https://img.shields.io/badge/OSCP-1A437C?style=for-the-badge&logo=target&logoColor=white" />
+  <img src="https://img.shields.io/badge/CompTIA_Security+-AA6C39?style=for-the-badge&logo=comptia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cisco_CCNA/CCNP-1BA0D9?style=for-the-badge&logo=cisco&logoColor=white" />
+</p>
 
 ### 🛠️ Core Development Tech Stack
 
