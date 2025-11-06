@@ -7,9 +7,15 @@
 * My passion is **making things easier for the world** through code and technology.
 * I specialize in **Transforming ideas into reality** through creative development and ensuring they are secured against digital threats.
 
-### 📈 GitHub Stats
+### 📈 GitHub Stats & Achievements
 
-![Buzzdotsui's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Buzzdotsui&show_icons=true&theme=vue)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Buzzdotsui&show_icons=true&theme=vue&hide_border=true&bg_color=00000000" alt="Buzzdotsui's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Buzzdotsui&theme=onedark&no-frame=true&no-bg=true" alt="Buzzdotsui's Trophy" />
+</p>
 
 ---
 
