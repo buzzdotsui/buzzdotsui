@@ -9,8 +9,9 @@
 
 ### 📈 Dynamic Activity Overview
 
-<img src="https://github-readme-stats.vercel.app/api?username=Buzzdotsui&show_icons=true&theme=vue&hide_border=true&bg_color=00000000&show_contribs_this_year=true&hide=issues,prs&date=20251106" alt="BuzzX's GitHub Stats - This Year" />
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Buzzdotsui&show_icons=true&theme=vue&hide_border=true&bg_color=00000000&show_contribs_this_year=true&hide=issues,prs&date=20251106" alt="Buzzdotsui's GitHub Stats - This Year" />
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Buzzdotsui&layout=compact&theme=vue&hide_border=true&bg_color=00000000" alt="Buzzdotsui's Top Languages" />
 </p>
 
@@ -69,4 +70,11 @@
 
 ---
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Buzzdotsui&color=blue" alt="Profile views" />
+</p>
+
 > **Fun Fact:** When I'm not securing code, I love getting behind the lens—I'm passionate about **photography and videography**!
+
+---
+
