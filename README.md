@@ -7,14 +7,12 @@
 * My passion is **making things easier for the world** through code and technology.
 * I specialize in **Transforming ideas into reality** through creative development and ensuring they are secured against digital threats.
 
-### 📈 GitHub Stats & Achievements
+### 📈 Dynamic Activity Overview
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Buzzdotsui&show_icons=true&theme=vue&hide_border=true&bg_color=00000000" alt="Buzzdotsui's GitHub Stats" />
-</p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Buzzdotsui&theme=onedark&no-frame=true&no-bg=true" alt="Buzzdotsui's Trophy" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Buzzdotsui&theme=dark&hide_border=true&background=00000000" alt="Buzzdotsui's Streak" />
 </p>
 
 ---
@@ -56,16 +54,16 @@
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
 </p>
 
-### 🌐 Let's Connect
+### 🌐 Let's Connect (Perfect Logos)
 
 <p align="left">
-  <a href="https://testytech.42web.io">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+  <a href="https://testytech.42web.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" />
   </a>
-  <a href="https://x.com/_buzzdotsui">
+  <a href="https://x.com/_buzzdotsui" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
-  <a href="https://instagram.com/testytech_pr">
+  <a href="https://instagram.com/testytech_pr" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
