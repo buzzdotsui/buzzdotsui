@@ -9,17 +9,38 @@
 
 ---
 
+### 🔎 Select Your Focus
+
+<p align="center">
+  <a href="#sui-rust-dev">
+    <img src="https://img.shields.io/badge/Sui%2FMove%20Code-4493D1?style=for-the-badge&logo=sui&logoColor=white" alt="Sui/Move Code" />
+  </a>
+  <a href="#full-stack-dev">
+    <img src="https://img.shields.io/badge/Full%20Stack%20Projects-339933?style=for-the-badge&logo=react&logoColor=white" alt="Full Stack Projects" />
+  </a>
+  <a href="#security-research">
+    <img src="https://img.shields.io/badge/Security%20%26%20Hacking-000000?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Security & Hacking" />
+  </a>
+</p>
+
+---
+
 ### 📈 Dynamic Activity Overview
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Buzzdotsui&row=1&column=5&theme=onedark" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Buzzdotsui&show_icons=true&theme=vue&hide_border=true&bg_color=00000000&hide=issues" alt="Buzzdotsui's GitHub Stats" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Buzzdotsui&theme=vue&hide_border=true&background=00000000" alt="GitHub Streak" />
 </p>
 
+---
+
+### 🌐 My Top Code Languages
+
 <p align="center">
-  <img src="https://wakatime.com/badge/user/YOUR_WAKATIME_ID/language/rust.svg" alt="Wakatime Rust" />
-  <img src="https://wakatime.com/badge/user/YOUR_WAKATIME_ID/language/solidity.svg" alt="Wakatime Solidity" />
-  <img src="https://wakatime.com/badge/user/YOUR_WAKATIME_ID/language/javascript.svg" alt="Wakatime JavaScript" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Buzzdotsui&layout=compact&theme=vue&hide_border=true&bg_color=00000000" alt="Buzzdotsui's Top Languages" />
 </p>
+
 ---
 
 ### 🛡️ Cybersecurity & Certifications
@@ -62,14 +83,40 @@
 </p>
 
 ---
+<a name="sui-rust-dev"></a>
+### 🔗 Sui & Rust Development Showcase
 
-### 🔗 Sui & Blockchain Development
+> My focus on digital ownership and high-performance secure systems using Move and Rust.
 
-<p align="left">
+* **Project 1 Name:** [Link to Repo] - Short description of the contract or service.
+* **Project 2 Name:** [Link to Repo] - Description focusing on safety/performance.
+
+<p align="center">
   <img src="https://img.shields.io/badge/Sui%20Move-FF006E?style=for-the-badge&logo=sui&logoColor=white" />
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sui%20Network-4493D1?style=for-the-badge&logo=sui&logoColor=white" />
-  <img src="https://img.shields.io/badge/Move%20Language-12A45C?style=for-the-badge&logo=apache&logoColor=white" />
+</p>
+
+---
+<a name="full-stack-dev"></a>
+### 💻 Full Stack Project Showcase
+
+> Examples of creative development and transforming ideas into production-ready applications.
+
+* **Project 1 Name:** [Link to Repo] - Tech used: React, Node.js, PostgreSQL.
+* **Project 2 Name:** [Link to Repo] - Tech used: Angular, Spring Boot, Docker.
+
+---
+<a name="security-research"></a>
+### 🛡️ Cybersecurity & Research
+
+> Demonstrating security knowledge through CTFs, bug bounty findings, and defense code.
+
+* **Recent CTF/Research:** [Link to Report/Writeup] - Summary of a finding or exploit written in Python/Go.
+* **Security Tools Built:** [Link to Tool Repo] - A tool written in Rust or Python for penetration testing.
+
+<p align="left">
+  <img src="https://img.shields.io/badge/OSCP-1A437C?style=for-the-badge&logo=target&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali_Linux-5578A6?style=for-the-badge&logo=kali-linux&logoColor=white" />
 </p>
 
 ---
