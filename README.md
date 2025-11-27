@@ -71,11 +71,14 @@
 
 ---
 
-### 🌐 Let's Connect (Perfect Logos)
+### 🌐 Let's Connect
 
 <p align="left">
   <a href="https://testytech.42web.io" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://x.com/_buzzdotsui" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
@@ -86,10 +89,6 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Buzzdotsui&color=blue" alt="Profile views" />
-</p>
 
 > **Fun Fact:** When I'm not securing code, I love getting behind the lens—I'm passionate about **photography and videography**!
 
