@@ -12,11 +12,14 @@
 ### 📈 Dynamic Activity Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Buzzdotsui&show_icons=true&theme=vue&hide_border=true&bg_color=00000000&show_contribs_this_year=true&hide=issues,prs&date=20251106" alt="Buzzdotsui's GitHub Stats - This Year" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Buzzdotsui&layout=compact&theme=vue&hide_border=true&bg_color=00000000" alt="Buzzdotsui's Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Buzzdotsui&row=1&column=5&theme=onedark" alt="GitHub Trophies" />
 </p>
 
+<p align="center">
+  <img src="https://wakatime.com/badge/user/YOUR_WAKATIME_ID/language/rust.svg" alt="Wakatime Rust" />
+  <img src="https://wakatime.com/badge/user/YOUR_WAKATIME_ID/language/solidity.svg" alt="Wakatime Solidity" />
+  <img src="https://wakatime.com/badge/user/YOUR_WAKATIME_ID/language/javascript.svg" alt="Wakatime JavaScript" />
+</p>
 ---
 
 ### 🛡️ Cybersecurity & Certifications
