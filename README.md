@@ -11,8 +11,10 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Buzzdotsui&show_icons=true&theme=vue&hide_border=true&bg_color=00000000&show_contribs_this_year=true&hide=issues,prs&date=20251106" alt="Buzzdotsui's GitHub Stats - This Year" />
-  
+  &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Buzzdotsui&layout=compact&theme=vue&hide_border=true&bg_color=00000000" alt="Buzzdotsui's Top Languages" />
+  &nbsp;&nbsp;
+  <img src="https://streak-stats.demolab.com/?user=Buzzdotsui&theme=vue&hide_border=true&background=00000000" alt="GitHub Streak" />
 </p>
 
 ---
@@ -75,6 +77,6 @@
 </p>
 
 > **Fun Fact:** When I'm not securing code, I love getting behind the lens—I'm passionate about **photography and videography**!
+ur profile!
 
----
-
+Is there anything else you would like to **refactor, customize, or add** to this README, or do you have a different coding challenge you'd like to work on?
