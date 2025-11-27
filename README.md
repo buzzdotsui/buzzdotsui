@@ -7,14 +7,14 @@
 * My passion is **making things easier for the world** through code and technology.
 * I specialize in **Transforming ideas into reality** through creative development and ensuring they are secured against digital threats.
 
+---
+
 ### 📈 Dynamic Activity Overview
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Buzzdotsui&show_icons=true&theme=vue&hide_border=true&bg_color=00000000&show_contribs_this_year=true&hide=issues,prs&date=20251106" alt="Buzzdotsui's GitHub Stats - This Year" />
-  &nbsp;&nbsp;
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Buzzdotsui&layout=compact&theme=vue&hide_border=true&bg_color=00000000" alt="Buzzdotsui's Top Languages" />
-  &nbsp;&nbsp;
-  <img src="https://streak-stats.demolab.com/?user=Buzzdotsui&theme=vue&hide_border=true&background=00000000" alt="GitHub Streak" />
 </p>
 
 ---
@@ -36,6 +36,8 @@
   <img src="https://img.shields.io/badge/Cisco_CCNA/CCNP-1BA0D9?style=for-the-badge&logo=cisco&logoColor=white" />
 </p>
 
+---
+
 ### 🛠️ Core Development Tech Stack
 
 <p align="left">
@@ -55,6 +57,19 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
 </p>
+
+---
+
+### 🔗 Sui & Blockchain Development
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Sui%20Move-FF006E?style=for-the-badge&logo=sui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sui%20Network-4493D1?style=for-the-badge&logo=sui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Move%20Language-12A45C?style=for-the-badge&logo=apache&logoColor=white" />
+</p>
+
+---
 
 ### 🌐 Let's Connect (Perfect Logos)
 
@@ -77,6 +92,5 @@
 </p>
 
 > **Fun Fact:** When I'm not securing code, I love getting behind the lens—I'm passionate about **photography and videography**!
-ur profile!
 
-Is there anything else you would like to **refactor, customize, or add** to this README, or do you have a different coding challenge you'd like to work on?
+---
