@@ -117,4 +117,4 @@
 
 ---
 
-> **Fun Fact:** When I'm not securing code, I love getting behind the lens—I'm passionate about **photography and videography**!
+> *Fun Fact:* When I'm not securing code, I love getting behind the lens—I'm passionate about *photography and videography*!
