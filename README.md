@@ -1,6 +1,6 @@
 <div align="center">
 
-# 𝐁𝐮𝐳𝐳🥷🥶
+# 𝐁𝐮𝐳𝐳🥷
 
 **Full Stack Engineer • Smart Contract Developer • Security-First**
 
