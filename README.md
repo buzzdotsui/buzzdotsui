@@ -1,87 +1,70 @@
 <div align="center">
 
-# ⚡ 𝐁𝐮𝐳𝐳🥷🥶
+# 𝐁𝐮𝐳𝐳🥷🥶
 
-**Full Stack Engineer • Smart Contract Developer • Security-First Builder**
+**Full Stack Engineer • Smart Contract Developer • Security-First**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&pause=600&color=3A8DFF&center=true&vCenter=true&width=640&lines=Build+fast.;Think+in+systems.;Secure+by+default.;Ship+with+confidence." />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=13&pause=800&color=8B949E&center=true&vCenter=true&width=620&lines=Silent+execution.;Attack+surfaces+understood.;Security+before+scale.;Ship+with+discipline." />
 
 </div>
 
 ---
 
-## 👋 Professional Summary
+## Profile
 
-I’m a **Full Stack Engineer** and **Smart Contract Developer** with a strong foundation in **application security**.
-Currently studying at **Federal University of Technology Akure (FUTA)** and working **remotely**, I focus on delivering **clean, maintainable, and production-ready systems** with speed and precision.
+I’m a **Full Stack Engineer** and **Smart Contract Developer** with a strong focus on **application and protocol security**.
+I build systems that are **quietly resilient** — designed to scale, endure pressure, and resist exploitation.
 
-I work best in environments that value:
-
-* Code quality
-* System reliability
-* Security by design
-* Ownership and clear execution
+🎓 **FUTA** • 🌍 Remote
 
 ---
 
-## 🧠 Core Competencies
+## Capabilities
 
-* Full Stack Web Development (Frontend + Backend)
-* REST API design & system architecture
-* Blockchain & smart contract development (**Sui / Move**)
-* Secure coding & vulnerability mitigation
-* Remote collaboration & version control workflows
+* Full Stack Engineering (Frontend + Backend)
+* Secure API & system architecture
+* Smart contracts on **Sui / Move**
+* Vulnerability analysis & mitigation
+* Remote-first collaboration
 
 ---
 
-## 🛠️ Technical Skills
+## Stack
 
 **Frontend**
-React • Angular • Vue • TypeScript • JavaScript
+React • Angular • Vue • TypeScript
 
 **Backend**
-Node.js • Spring Boot • REST APIs • Auth systems
+Node.js • Spring Boot
 
-**Data & Infrastructure**
-PostgreSQL • MySQL • MongoDB • Docker • Git • Google Cloud
+**Data & Infra**
+PostgreSQL • MongoDB • Docker • Git • Google Cloud
 
----
-
-## ⛓️ Blockchain Experience
-
-* Smart contracts using **Move (Sui Network)**
-* Secure asset and transaction logic
-* Efficient execution model awareness
+**Blockchain**
+Sui Network • Move Language
 
 ---
 
-## 🛡️ Security Background (Value Add)
+## Security Focus
 
-* Secure development lifecycle mindset
+* Secure-by-design development
 * Web application security testing
-* Vulnerability analysis & remediation
-* Strong OWASP threat awareness
+* Threat modeling & OWASP awareness
+* Defense-driven engineering mindset
 
 ---
 
-## 📊 Engineering Activity
+## Signal
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Buzzdotsui&show_icons=true&theme=vue&hide_border=true&bg_color=00000000" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Buzzdotsui&show_icons=true&theme=github_dark&hide_border=true" />
 </p>
 
 ---
 
-## 🌍 Availability
-
-* Open to **internships**, **junior–mid roles**, and **remote opportunities**
-* Comfortable working with global teams and tight timelines
-
----
-
-### 📬 Contact
+## Contact
 
 📎 [https://testytech.42web.io](https://testytech.42web.io)
 🐦 @_buzzdotsui
 
-> *Speed without chaos. Security without friction.*
+> *Quiet systems. No surprises.*
