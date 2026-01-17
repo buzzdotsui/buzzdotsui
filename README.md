@@ -4,7 +4,7 @@
 
 **Full Stack Engineer • Smart Contract Developer • Security-First**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&pause=800&color=FFD700&center=true&vCenter=true&width=620&lines=Silent+execution.;Attack+surfaces+understood.;Security+before+scale.;Ship+with+discipline." />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=23&pause=800&color=FFD700&center=true&vCenter=true&width=620&lines=Silent+execution.;Attack+surfaces+understood.;Security+before+scale.;Ship+with+discipline." />
 
 </div>
 
