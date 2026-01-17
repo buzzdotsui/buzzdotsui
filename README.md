@@ -1,61 +1,120 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=B%20U%20Z%20Z%20%F0%9F%A5%B7&fontSize=70&animation=fadeIn" />
+# Hi there! 👋 I'm 𝐁𝐮𝐳𝐳🥷🥶
 
-  <h1>🚀 Full Stack Developer | Smart Contract Architect | Ethical Hacker</h1>
+### 💻 About Me
 
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=Buzzdotsui&label=Profile%20Views&color=0e7afe&style=flat-square" alt="Views" />
-    <img src="https://img.shields.io/badge/Main_Focus-Sui%20Move-FF006E?style=flat-square" />
-    <img src="https://img.shields.io/badge/Location-Remote-brightgreen?style=flat-square" />
-  </p>
-
-  *"Transforming complex ideas into secure, scalable digital realities."*
-</div>
+* I'm a versatile **Full Stack Developer**, **Smart Contract Developer**, and a dedicated **Ethical Hacker**.
+* I'm currently a student at the **Federal University of Technology Akure** and work **remotely**.
+* My passion is **making things easier for the world** through code and technology.
+* I specialize in **Transforming ideas into reality** through creative development and ensuring they are secured against digital threats.
 
 ---
 
-### ⚡ Quick Byte
-- 🎓 **Education:** Federal University of Technology Akure (FUTA)
-- 🛠️ **Current Focus:** Building secure DeFi protocols on **Sui Network**.
-- 🛡️ **Security:** OSCP & CEH Certified. Specializing in Web3 vulnerability research.
-- 📬 **Available for:** Remote Full-Stack roles & Smart Contract Audits.
+### 🔎 Select Your Focus
 
----
-
-### 🛠️ Tech Stack & Arsenal
-
-| Category | Tools & Languages |
-| :--- | :--- |
-| **Blockchain** | `Sui` `Move` `Rust` `Solidity` `Ethers.js` |
-| **Frontend** | `React` `Next.js` `TypeScript` `Angular` `TailwindCSS` |
-| **Backend** | `Node.js` `Spring Boot` `Go` `Python` |
-| **Database** | `PostgreSQL` `MongoDB` `Redis` `MySQL` |
-| **Cybersecurity** | `Kali Linux` `Burp Suite` `Metasploit` `Wireshark` |
-| **DevOps** | `Docker` `GitHub Actions` `GCP` `Linux` |
-
----
-
-### 🔗 Sui Ecosystem Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Buzzdotsui&repo=YOUR_TOP_SUI_REPO&theme=vue&hide_border=true" />
+  <a href="#blockchain-stack">
+    <img src="https://img.shields.io/badge/Sui%2FMove%20Code-4493D1?style=for-the-badge&logo=sui&logoColor=white" alt="Sui/Move Code" />
+  </a>
+  <a href="#core-stack">
+    <img src="https://img.shields.io/badge/Full%20Stack%20Tools-339933?style=for-the-badge&logo=react&logoColor=white" alt="Full Stack Projects" />
+  </a>
+  <a href="#security-certs">
+    <img src="https://img.shields.io/badge/Security%20%26%20Certifications-000000?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Security & Hacking" />
+  </a>
 </p>
 
 ---
 
-### 📈 Activity & Impact
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Buzzdotsui&show_icons=true&theme=vue&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Buzzdotsui&layout=compact&theme=vue&hide_border=true" width="48%" />
-</p>
+### 📈 Dynamic Activity Overview
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Buzzdotsui&theme=vue&hide_border=true" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Buzzdotsui&show_icons=true&theme=vue&hide_border=true&bg_color=00000000&hide=issues" alt="Buzzdotsui's GitHub Stats" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Buzzdotsui&theme=vue&hide_border=true&background=00000000" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 🛡️ Security Certifications
-```text
-[████████████████████] 100% OSCP (Offensive Security Certified Professional)
-[████████████████████] 100% CEH (Certified Ethical Hacker)
-[████████████████░░░░] 80%  Advanced Smart Contract Auditing
+### 🌐 My Top Code Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Buzzdotsui&layout=compact&theme=vue&hide_border=true&bg_color=00000000" alt="Buzzdotsui's Top Languages" />
+</p>
+
+---
+
+<a name="security-certs"></a>
+### 🛡️ Cybersecurity & Certifications
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Kali_Linux-5578A6?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Penetration_Testing-000000?style=for-the-badge&logo=testing-library&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vulnerability_Analysis-851C6E?style=for-the-badge&logo=kofi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Network_Security-3F729E?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web_Application_Hacking-006400?style=for-the-badge&logo=gnuprivacyguard&logoColor=white" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Certified_Ethical_Hacker-FF5733?style=for-the-badge&logo=certifcatenumber-certifcate&logoColor=white" />
+  <img src="https://img.shields.io/badge/OSCP-1A437C?style=for-the-badge&logo=target&logoColor=white" />
+  <img src="https://img.shields.io/badge/CompTIA_Security+-AA6C39?style=for-the-badge&logo=comptia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cisco_CCNA/CCNP-1BA0D9?style=for-the-badge&logo=cisco&logoColor=white" />
+</p>
+
+---
+
+<a name="core-stack"></a>
+### 🛠️ Core Development Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+</p>
+
+---
+
+<a name="blockchain-stack"></a>
+### 🔗 Sui & Blockchain Development
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Sui%20Move-FF006E?style=for-the-badge&logo=sui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sui%20Network-4493D1?style=for-the-badge&logo=sui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Move%20Language-12A45C?style=for-the-badge&logo=apache&logoColor=white" />
+</p>
+
+---
+
+### 🌐 Let's Connect
+
+<p align="left">
+  <a href="https://testytech.42web.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/_buzzdotsui" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/testytech_pr" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+---
+
+> *Fun Fact:* When I'm not securing code, I love getting behind the lens—I'm passionate about *photography and videography*!
