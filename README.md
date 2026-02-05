@@ -2,125 +2,79 @@
   
 # Hey, I'm Testimony 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=80&lines=DevSecOps+Engineer+%7C+Systems+Architect;Building+Deterministic+Infrastructure)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=80&lines=DevSecOps+Engineer+%7C+Systems+Architect;Building+Deterministic+Infrastructure;Zero+Trust+%E2%80%A2+Immutable+IaC+%E2%80%A2+99.99%25+Uptime)](https://git.io/typing-svg)
 
-<img src="https://github.com/buzzdotsui.png" width="150" height="150" style="border-radius: 50%;" alt="Testimony Owolabi"/>
+<img src="https://github.com/buzzdotsui.png" width="160" height="160" style="border-radius: 50%; border: 4px solid #8b5cf6;" alt="Testimony Owolabi"/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-buzzdotsui-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/buzzdotsui)
-[![Twitter](https://img.shields.io/badge/Twitter-@_buzzdotsui-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/_buzzdotsui)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:owolabitestimony7724@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://testimonyowolabi.pages.dev)
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-buzzdotsui-0f0728?style=for-the-badge&logo=github&logoColor=8b5cf6&labelColor=0f0728&color=2e1065)](https://github.com/buzzdotsui)
+[![Twitter](https://img.shields.io/badge/Twitter-@_buzzdotsui-0f0728?style=for-the-badge&logo=twitter&logoColor=06b6d4&labelColor=0f0728&color=2e1065)](https://x.com/_buzzdotsui)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-0f0728?style=for-the-badge&logo=gmail&logoColor=f472b6&labelColor=0f0728&color=2e1065)](mailto:owolabitestimony7724@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-0f0728?style=for-the-badge&logo=vercel&logoColor=10b981&labelColor=0f0728&color=2e1065)](https://testimonyowolabi.pages.dev)
 
 </div>
 
----
+<br/>
 
-## 🚀 About Me
+## ⚡ System Status: `ONLINE`
 
 ```yaml
-name: Testimony Owolabi
+user: Testimony Owolabi
 role: DevSecOps Engineer | Systems Reliability Engineer
 location: Akure, Nigeria 🇳🇬
 timezone: GMT+1
-availability: Open to Work ✅
-focus: ["Infrastructure Automation", "Security Engineering", "Cloud Architecture"]
+status: Open to Work ✅
+imperative: ["Deterministic Infrastructure", "Security Engineering", "Cloud Architecture"]
+philosophy: "Materials have failure points, and so does software."
 ```
 
-I design **deterministic infrastructure** that bridges the gap between hardware constraints and cloud scalability. My engineering philosophy draws from Metallurgical Engineering—*materials have failure points, and so does software*. I approach infrastructure with the same rigor used in physical stress testing.
-
-> *"If a process relies on manual intervention, it is a bug."*
-
----
-
-## ⚡ Core Stack
-
 <div align="center">
-
-| Domain | Technologies |
-|--------|-------------|
-| **Orchestration** | Kubernetes • Ansible • Docker |
-| **Scripting** | Python (Boto3/Fabric) • Bash |
-| **Cloud** | AWS • GCP |
-| **OS** | Linux (RHEL/Debian) |
-| **CI/CD** | GitHub Actions • GitOps |
-| **IaC** | Terraform |
-| **Monitoring** | Prometheus • Grafana • ELK Stack |
-
+<i>"I bridge the gap between hardware constraints and cloud scalability, focusing on automated pipelines, security baselines, and <b>99.99% system availability</b>."</i>
 </div>
 
 ---
 
-## 🛠️ Technical Arsenal
+## 🛠️ Tech Stack & Arsenal
 
 <div align="center">
 
-### Infrastructure & Cloud
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-
-### Automation & DevOps
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
-### Languages & Scripting
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
-
-### Observability & Security
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
+| **Orchestration** | **Scripting** | **Cloud** | **Observability** |
+| :---: | :---: | :---: | :---: |
+| ![Kubernetes](https://img.shields.io/badge/K8s-326CE5?style=flat-square&logo=kubernetes&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) | ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) |
+| ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white) | ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) | ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white) | ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) |
+| ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux_RHEL-FCC624?style=flat-square&logo=red-hat&logoColor=black) | ![ELK](https://img.shields.io/badge/ELK_Stack-005571?style=flat-square&logo=elastic&logoColor=white) |
 
 </div>
 
----
+<br/>
 
-## 📊 Operational Standards
-
-<div align="center">
-
-| Metric | Standard |
-|--------|----------|
-| **Uptime Goal** | 99.95% (HA) |
-| **Security Model** | Zero Trust |
-| **Infrastructure** | Immutable IaC |
-| **Tooling Philosophy** | Open Source First |
-
-</div>
-
----
-
-## 🔥 Featured Projects
+## 🔮 Featured Modules
 
 <table>
 <tr>
 <td width="50%">
 
 ### 🔐 Project Cipher
-**Automated Security Hardening Suite**
+<img src="https://img.shields.io/badge/Security-Suite-8b5cf6?style=flat&labelColor=2e1065"/>
 
 Automated hardening suite for Debian-based systems. Configures UFW, Fail2Ban, and SSH according to CIS benchmarks automatically.
 
 `Bash` `Security` `Automation`
 
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/buzzdotsui)
+[![GitHub](https://img.shields.io/badge/View_Source-0f0728?style=flat-square&logo=github&logoColor=white)](https://github.com/buzzdotsui)
 
 </td>
 <td width="50%">
 
 ### 🔍 AutoRecon
-**Network Surveillance Tool**
+<img src="https://img.shields.io/badge/Surveillance-Tool-06b6d4?style=flat&labelColor=2e1065"/>
 
 Python-based surveillance tool that schedules Nmap scans, diffs results against previous baselines, and alerts on new open ports.
 
 `Python` `Nmap` `Monitoring`
 
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/buzzdotsui)
+[![GitHub](https://img.shields.io/badge/View_Source-0f0728?style=flat-square&logo=github&logoColor=white)](https://github.com/buzzdotsui)
 
 </td>
 </tr>
@@ -128,81 +82,56 @@ Python-based surveillance tool that schedules Nmap scans, diffs results against 
 <td width="50%">
 
 ### 📋 LogSentinel
-**Real-time Log Parser**
+<img src="https://img.shields.io/badge/Log-Parser-f472b6?style=flat&labelColor=2e1065"/>
 
 Real-time log parser for authentication logs. Detects brute-force patterns using regex and triggers IP blocks via iptables.
 
 `Python` `Regex` `SysAdmin`
 
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/buzzdotsui)
+[![GitHub](https://img.shields.io/badge/View_Source-0f0728?style=flat-square&logo=github&logoColor=white)](https://github.com/buzzdotsui)
 
 </td>
 <td width="50%">
 
 ### 📊 InfraUI
-**Infrastructure Dashboard**
+<img src="https://img.shields.io/badge/Dashboard-React-326CE5?style=flat&labelColor=2e1065"/>
 
 React dashboard for visualizing server health metrics. Consumes custom JSON endpoints to display CPU, RAM, and Disk IO stats.
 
 `React` `Dashboard` `Data Viz`
 
-[![Demo](https://img.shields.io/badge/Live_Demo-8B5CF6?style=flat-square&logo=vercel&logoColor=white)](https://testytech.netlify.app/)
+[![Demo](https://img.shields.io/badge/Live_Demo-0f0728?style=flat-square&logo=vercel&logoColor=white)](https://testimonyowolabi.pages.dev)
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-## 📈 GitHub Analytics
+## 📈 Git Telemetry
 
 <div align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=buzzdotsui&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buzzdotsui&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=buzzdotsui&show_icons=true&title_color=8b5cf6&icon_color=06b6d4&text_color=e2e8f0&bg_color=0f0728&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buzzdotsui&layout=compact&langs_count=8&title_color=8b5cf6&icon_color=06b6d4&text_color=e2e8f0&bg_color=0f0728&hide_border=true"/>
 
 </div>
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=buzzdotsui&theme=tokyonight&hide_border=true&background=0D1117)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=buzzdotsui&theme=tokyonight&hide_border=true&background=0f0728&ring=8b5cf6&fire=f472b6&currStreakLabel=06b6d4)](https://git.io/streak-stats)
 
 </div>
 
----
+<br/>
 
-## 🏆 Skill Domains
-
-```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│  INFRASTRUCTURE        │  Linux Admin (Debian/RHEL) • Docker • VMWare ESXi │
-│                        │  Bare Metal Provisioning • TCP/IP & DNS           │
-├────────────────────────┼───────────────────────────────────────────────────┤
-│  AUTOMATION & CI/CD    │  Python (Boto3/Fabric) • Bash • Ansible           │
-│                        │  GitHub Actions • Terraform • GitOps              │
-├────────────────────────┼───────────────────────────────────────────────────┤
-│  OBSERVABILITY         │  Prometheus/Grafana • ELK Stack • Nmap            │
-│                        │  Wireshark • Systemd Journaling • Kernel Tuning   │
-├────────────────────────┼───────────────────────────────────────────────────┤
-│  ENGINEERING           │  Root Cause Analysis • Capacity Planning          │
-│                        │  Disaster Recovery • System Hardening (CIS)       │
-└─────────────────────────────────────────────────────────────────────────────┘
-```
-
----
-
-## 📫 Let's Connect
+## 📡 Transmission Frequency
 
 <div align="center">
 
-**Available for contract work and full-time positions focusing on infrastructure reliability and security.**
-
-I typically respond within 24 hours.
-
-[![Email](https://img.shields.io/badge/owolabitestimony7724@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:owolabitestimony7724@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/_buzzdotsui)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-8B5CF6?style=for-the-badge&logo=safari&logoColor=white)](https://testimonyowolabi.pages.dev)
+[![Email](https://img.shields.io/badge/owolabitestimony7724@gmail.com-0f0728?style=for-the-badge&logo=gmail&logoColor=f472b6&labelColor=2e1065)](mailto:owolabitestimony7724@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0f0728?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=2e1065)](https://linkedin.com)
+[![Twitter](https://img.shields.io/badge/X_(Twitter)-Follow-0f0728?style=for-the-badge&logo=x&logoColor=white&labelColor=2e1065)](https://x.com/_buzzdotsui)
 
 </div>
 
@@ -210,18 +139,11 @@ I typically respond within 24 hours.
 
 <div align="center">
   
-### 💡 Current Focus
+<img src="https://komarev.com/ghpvc/?username=buzzdotsui&style=flat-square&color=8b5cf6&label=PROFILE+VIEWS" alt="Profile Views"/>
 
-`Building Self-Healing Architectures` • `Enforcing Security at Kernel Level` • `Data Integrity Across Distributed Systems`
+<br/>
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=buzzdotsui&style=for-the-badge&color=8B5CF6" alt="Profile Views"/>
-
-</div>
-
----
-
-<div align="center">
-  
-**⚡ "Designing deterministic infrastructure for 99.99% system availability."**
+<code>[ SYSTEM OPTIMIZED FOR 99.99% AVAILABILITY ]</code>
 
 </div>
