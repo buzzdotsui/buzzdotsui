@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:667eea,50:764ba2,100:f093fb&height=200&section=header&text=TESTIMONY%20OWOLABI&fontSize=50&animation=fadeIn&fontAlignY=35&desc=DevSecOps%20Engineer%20%7C%20Cloud%20Architect&descAlignY=55&descSize=18"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:8B5CF6,50:06b6d4,100:8B5CF6&height=200&section=header&text=TESTIMONY%20OWOLABI&fontSize=50&animation=fadeIn&fontAlignY=35&fontColor=ffffff&desc=DevSecOps%20Engineer%20%7C%20Cloud%20Architect&descAlignY=55&descSize=18"/>
 </p>
 
 <div align="center">
@@ -14,7 +14,7 @@
   <!-- CTA Buttons -->
   <a href="mailto:owolabitestimony7724@gmail.com"><img src="https://img.shields.io/badge/🚀_HIRE_ME-8B5CF6?style=for-the-badge&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/✅_AVAILABLE-22c55e?style=for-the-badge"/>
-  <a href="https://owolabitestimony.pages.dev"><img src="https://img.shields.io/badge/PORTFOLIO-1a1a2e?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://owolabitestimony.pages.dev"><img src="https://img.shields.io/badge/PORTFOLIO-0d1117?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://x.com/_buzzdotsui"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
 
@@ -28,7 +28,7 @@
 
 <!-- 3D Contribution Calendar -->
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=buzzdotsui&theme=tokyonight" width="90%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=buzzdotsui&theme=aura_dark" width="90%"/>
 </div>
 
 <br/>
@@ -68,8 +68,8 @@ I build **unbreakable, secure-by-default** infrastructure. I bridge the gap betw
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/📍_Akure,_Nigeria-1a1a2e?style=flat-square"/>
-  <img src="https://img.shields.io/badge/🕐_GMT+1-1a1a2e?style=flat-square"/>
+  <img src="https://img.shields.io/badge/📍_Akure,_Nigeria-0d1117?style=flat-square"/>
+  <img src="https://img.shields.io/badge/🕐_GMT+1-0d1117?style=flat-square"/>
   <br/>
   <img src="https://img.shields.io/badge/⚡_24hr_Response-22c55e?style=flat-square"/>
 </div>
@@ -87,38 +87,39 @@ I build **unbreakable, secure-by-default** infrastructure. I bridge the gap betw
 <!-- GitHub Stats with Rank & Languages -->
 <h3 align="center">📊 GitHub Analytics & Rank</h3>
 
-<div align="center">
-  
-  <!-- Stats Card with Rank -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=buzzdotsui&show_icons=true&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=f093fb&text_color=ffffff&count_private=true&show=reviews,prs_merged,prs_merged_percentage&rank_icon=github"/>
-  
-  <!-- Top Languages -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buzzdotsui&layout=compact&hide_border=true&bg_color=0d1117&title_color=8B5CF6&text_color=ffffff&langs_count=10"/>
+<br/>
 
+<div align="center">
+  <a href="https://github.com/buzzdotsui">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=buzzdotsui&show_icons=true&theme=aura_dark&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=06b6d4&text_color=c9d1d9&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/buzzdotsui">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buzzdotsui&layout=compact&theme=aura_dark&hide_border=true&bg_color=0d1117&title_color=8B5CF6&text_color=c9d1d9&langs_count=8"/>
+  </a>
 </div>
 
 <br/>
 
 <div align="center">
-  
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=buzzdotsui&hide_border=true&background=0d1117&ring=8B5CF6&fire=f093fb&currStreakLabel=ffffff&sideLabels=8B5CF6"/>
-
+  <a href="https://github.com/buzzdotsui">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=buzzdotsui&theme=aura-dark&hide_border=true&background=0d1117&ring=8B5CF6&fire=06b6d4&currStreakLabel=c9d1d9"/>
+  </a>
 </div>
 
 <br/>
 
-<!-- Language Stats Cards -->
+<!-- Language Breakdown Cards -->
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=buzzdotsui&theme=tokyonight" height="180"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=buzzdotsui&theme=tokyonight" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=buzzdotsui&theme=aura_dark" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=buzzdotsui&theme=aura_dark" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=buzzdotsui&theme=aura_dark&utcOffset=1" height="160"/>
 </div>
 
 <br/>
 
 <!-- Activity Graph -->
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=buzzdotsui&bg_color=0d1117&color=8B5CF6&line=f093fb&point=ffffff&hide_border=true&area=true"/>
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=buzzdotsui&bg_color=0d1117&color=8B5CF6&line=06b6d4&point=ffffff&hide_border=true&area=true&area_color=8B5CF6"/>
 </div>
 
 <br/>
@@ -157,7 +158,7 @@ I build **unbreakable, secure-by-default** infrastructure. I bridge the gap betw
       <br/><br/>
       <b>Impact:</b> 2 hours → 5 minutes setup time
       <br/><br/>
-      <a href="https://github.com/buzzdotsui"><img src="https://img.shields.io/badge/-Source_Code-181717?style=flat-square&logo=github"/></a>
+      <a href="https://github.com/buzzdotsui"><img src="https://img.shields.io/badge/-Source_Code-0d1117?style=flat-square&logo=github"/></a>
     </td>
     <td width="50%" valign="top">
       <h4>🔍 AutoRecon</h4>
@@ -167,7 +168,7 @@ I build **unbreakable, secure-by-default** infrastructure. I bridge the gap betw
       <br/><br/>
       <b>Impact:</b> Caught 3 unauthorized services before breach
       <br/><br/>
-      <a href="https://github.com/buzzdotsui"><img src="https://img.shields.io/badge/-Source_Code-181717?style=flat-square&logo=github"/></a>
+      <a href="https://github.com/buzzdotsui"><img src="https://img.shields.io/badge/-Source_Code-0d1117?style=flat-square&logo=github"/></a>
     </td>
   </tr>
   <tr>
@@ -179,7 +180,7 @@ I build **unbreakable, secure-by-default** infrastructure. I bridge the gap betw
       <br/><br/>
       <b>Impact:</b> Blocked 50,000+ malicious attempts
       <br/><br/>
-      <a href="https://github.com/buzzdotsui"><img src="https://img.shields.io/badge/-Source_Code-181717?style=flat-square&logo=github"/></a>
+      <a href="https://github.com/buzzdotsui"><img src="https://img.shields.io/badge/-Source_Code-0d1117?style=flat-square&logo=github"/></a>
     </td>
     <td width="50%" valign="top">
       <h4>📊 InfraUI</h4>
@@ -202,7 +203,7 @@ I build **unbreakable, secure-by-default** infrastructure. I bridge the gap betw
 
 <!-- Trophies -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=buzzdotsui&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=buzzdotsui&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10"/>
 </div>
 
 <br/>
@@ -237,4 +238,4 @@ I build **unbreakable, secure-by-default** infrastructure. I bridge the gap betw
   <sub>Engineered with 🔥 by <b>Testimony Owolabi</b> | 2024</sub>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:06b6d4,100:8B5CF6&height=100&section=footer"/>
