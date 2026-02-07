@@ -18,27 +18,15 @@
 <br/><br/>
 
 <!-- Social Links -->
-<a href="https://github.com/buzzdotsui">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://linkedin.com">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://x.com/_buzzdotsui">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-<a href="mailto:owolabitestimony7724@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://owolabitestimony.pages.dev">
-  <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=About.me&logoColor=white"/>
-</a>
+<a href="https://github.com/buzzdotsui"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://linkedin.com/in/owolabitestimony"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://x.com/_buzzdotsui"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+<a href="mailto:owolabitestimony7724@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://owolabitestimony.pages.dev"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=About.me&logoColor=white"/></a>
 
 </div>
 
 ---
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buzzdotsui&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B5CF6&text_color=c9d1d9&card_width=300" width="300"/>
 
 ## 🔧 About Me
 
@@ -51,20 +39,30 @@ I bridge the gap between **hardware constraints** and **cloud scalability**, foc
 
 My engineering philosophy is derived from **Metallurgical Engineering**: materials have failure points, and so does software. I approach infrastructure with the same rigor used in physical stress testing.
 
-<br clear="right"/>
-
 ---
 
 ## ⚡ Core Stack
 
 <div align="center">
 
-| Category | Technologies |
-|:--------:|:-------------|
-| **🖥️ Orchestration** | `Kubernetes` `Ansible` `Docker` `Containerd` |
-| **📜 Scripting** | `Python` `Bash` `Shell` |
-| **☁️ Cloud** | `AWS` `GCP` |
-| **🐧 OS** | `Linux (RHEL/Debian)` |
+<table>
+<tr>
+<td align="center"><b>🖥️ Orchestration</b></td>
+<td><code>Kubernetes</code> <code>Ansible</code> <code>Docker</code> <code>Containerd</code></td>
+</tr>
+<tr>
+<td align="center"><b>📜 Scripting</b></td>
+<td><code>Python</code> <code>Bash</code> <code>Shell</code></td>
+</tr>
+<tr>
+<td align="center"><b>☁️ Cloud</b></td>
+<td><code>AWS</code> <code>GCP</code></td>
+</tr>
+<tr>
+<td align="center"><b>🐧 OS</b></td>
+<td><code>Linux (RHEL/Debian)</code></td>
+</tr>
+</table>
 
 </div>
 
@@ -76,84 +74,123 @@ My engineering philosophy is derived from **Metallurgical Engineering**: materia
 <summary><b>🏗️ Infrastructure</b></summary>
 <br/>
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
-![RHEL](https://img.shields.io/badge/Red_Hat-EE0000?style=flat-square&logo=redhat&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white"/>
+<img src="https://img.shields.io/badge/Red_Hat-EE0000?style=flat-square&logo=redhat&logoColor=white"/>
+</p>
 
-```
-› Linux Admin (Debian/RHEL)    › Docker / Containerd
-› VMWare ESXi                  › Bare Metal Provisioning
-› TCP/IP & DNS                 › SSH Key Management
-```
+- Linux Admin (Debian/RHEL)
+- Docker / Containerd
+- VMWare ESXi
+- Bare Metal Provisioning
+- TCP/IP & DNS
+- SSH Key Management
+
 </details>
 
 <details>
 <summary><b>🔄 Automation & CI/CD</b></summary>
 <br/>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
+</p>
 
-```
-› Python (Boto3/Fabric)        › Bash / Shell Scripting
-› Ansible Playbooks            › GitHub Actions
-› Terraform Basics             › GitOps Principles
-```
+- Python (Boto3/Fabric)
+- Bash / Shell Scripting
+- Ansible Playbooks
+- GitHub Actions
+- Terraform Basics
+- GitOps Principles
+
 </details>
 
 <details>
 <summary><b>📊 Observability</b></summary>
 <br/>
 
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![Elastic](https://img.shields.io/badge/Elastic_Stack-005571?style=flat-square&logo=elastic&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
+<img src="https://img.shields.io/badge/Elastic_Stack-005571?style=flat-square&logo=elastic&logoColor=white"/>
+</p>
 
-```
-› Prometheus / Grafana         › ELK Stack
-› Nmap Network Audits          › Wireshark Packet Analysis
-› Systemd Journaling           › Kernel Tuning
-```
+- Prometheus / Grafana
+- ELK Stack
+- Nmap Network Audits
+- Wireshark Packet Analysis
+- Systemd Journaling
+- Kernel Tuning
+
 </details>
 
 <details>
 <summary><b>⚙️ Engineering</b></summary>
 <br/>
 
-```
-› Root Cause Analysis          › Capacity Planning
-› Disaster Recovery            › System Hardening (CIS)
-› Load Balancing               › Cost Optimization
-```
+- Root Cause Analysis
+- Capacity Planning
+- Disaster Recovery
+- System Hardening (CIS)
+- Load Balancing
+- Cost Optimization
+
 </details>
 
 ---
 
 ## 🚀 Field Operations
 
-<div align="center">
-
-<a href="https://github.com/buzzdotsui">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=buzzdotsui&repo=project-cipher&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=06b6d4" width="45%"/>
-</a>
-<a href="https://github.com/buzzdotsui">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=buzzdotsui&repo=autorecon&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=06b6d4" width="45%"/>
-</a>
-
-</div>
-
 ### Featured Projects
 
-| Project | Description | Tech |
-|:--------|:------------|:-----|
-| **🔐 Project Cipher** | Automated hardening suite for Debian-based systems. Configures UFW, Fail2Ban, and SSH according to CIS benchmarks. | `Bash` `Security` `Automation` |
-| **🔍 AutoRecon** | Python-based surveillance tool for scheduled Nmap scans with baseline diffing and alerting on new open ports. | `Python` `Nmap` `Monitoring` |
-| **📋 LogSentinel** | Real-time log parser for authentication logs. Detects brute-force patterns and triggers IP blocks via iptables. | `Python` `Regex` `SysAdmin` |
-| **📊 InfraUI** | React dashboard visualizing server health metrics including CPU, RAM, and Disk IO stats. | `React` `Dashboard` `Data Viz` |
+<table>
+<tr>
+<td width="50%">
+
+**🔐 Project Cipher**
+
+Automated hardening suite for Debian-based systems. Configures UFW, Fail2Ban, and SSH according to CIS benchmarks.
+
+`Bash` `Security` `Automation`
+
+</td>
+<td width="50%">
+
+**🔍 AutoRecon**
+
+Python-based surveillance tool for scheduled Nmap scans with baseline diffing and alerting on new open ports.
+
+`Python` `Nmap` `Monitoring`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**📋 LogSentinel**
+
+Real-time log parser for authentication logs. Detects brute-force patterns and triggers IP blocks via iptables.
+
+`Python` `Regex` `SysAdmin`
+
+</td>
+<td width="50%">
+
+**📊 InfraUI**
+
+React dashboard visualizing server health metrics including CPU, RAM, and Disk IO stats.
+
+`React` `Dashboard` `Data Viz`
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -161,13 +198,13 @@ My engineering philosophy is derived from **Metallurgical Engineering**: materia
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=buzzdotsui&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=06b6d4&text_color=c9d1d9" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=buzzdotsui&theme=tokyonight&hide_border=true&background=0d1117&ring=8B5CF6&fire=06b6d4&currStreakLabel=8B5CF6" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=buzzdotsui&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=06b6d4&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=buzzdotsui&theme=tokyonight&hide_border=true&background=0d1117&ring=8B5CF6&fire=06b6d4&currStreakLabel=8B5CF6" height="165"/>
 
-<br/>
+</div>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=buzzdotsui&bg_color=0d1117&color=8B5CF6&line=06b6d4&point=ffffff&area_color=8B5CF6&area=true&hide_border=true" width="98%"/>
-
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=buzzdotsui&bg_color=0d1117&color=8B5CF6&line=06b6d4&point=ffffff&area_color=8B5CF6&area=true&hide_border=true" width="95%"/>
 </div>
 
 ---
@@ -176,27 +213,26 @@ My engineering philosophy is derived from **Metallurgical Engineering**: materia
 
 <div align="center">
 
-| Metric | Target |
-|:------:|:------:|
-| **Uptime Goal** | `99.95% (HA)` |
-| **Security Model** | `Zero Trust` |
-| **IaC Approach** | `Immutable` |
-| **Tooling** | `Open Source First` |
+<table>
+<tr>
+<td align="center"><b>Uptime Goal</b></td>
+<td align="center"><b>Security Model</b></td>
+<td align="center"><b>IaC Approach</b></td>
+<td align="center"><b>Tooling</b></td>
+</tr>
+<tr>
+<td align="center"><code>99.95% (HA)</code></td>
+<td align="center"><code>Zero Trust</code></td>
+<td align="center"><code>Immutable</code></td>
+<td align="center"><code>Open Source First</code></td>
+</tr>
+</table>
 
 </div>
 
 ---
 
 <div align="center">
-
-<!-- Activity Snake -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/buzzdotsui/buzzdotsui/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/buzzdotsui/buzzdotsui/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/buzzdotsui/buzzdotsui/output/github-contribution-grid-snake.svg">
-</picture>
-
-<br/><br/>
 
 <!-- Profile Views Counter -->
 <img src="https://komarev.com/ghpvc/?username=buzzdotsui&style=for-the-badge&color=8B5CF6&labelColor=1a1a2e"/>
