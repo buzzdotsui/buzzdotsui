@@ -89,28 +89,15 @@ I build **unbreakable, secure-by-default** infrastructure. I bridge the gap betw
 
 <br/>
 
+<!-- Language Breakdown Cards - These work! -->
 <div align="center">
-  <a href="https://github.com/buzzdotsui">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=buzzdotsui&show_icons=true&theme=aura_dark&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=06b6d4&text_color=c9d1d9&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/buzzdotsui">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buzzdotsui&layout=compact&theme=aura_dark&hide_border=true&bg_color=0d1117&title_color=8B5CF6&text_color=c9d1d9&langs_count=8"/>
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://github.com/buzzdotsui">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=buzzdotsui&theme=aura-dark&hide_border=true&background=0d1117&ring=8B5CF6&fire=06b6d4&currStreakLabel=c9d1d9"/>
-  </a>
-</div>
-
-<br/>
-
-<!-- Language Breakdown Cards -->
-<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=buzzdotsui&theme=aura_dark" height="160"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=buzzdotsui&theme=aura_dark" height="160"/>
+</div>
+
+<br/>
+
+<div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=buzzdotsui&theme=aura_dark" height="160"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=buzzdotsui&theme=aura_dark&utcOffset=1" height="160"/>
 </div>
@@ -120,21 +107,6 @@ I build **unbreakable, secure-by-default** infrastructure. I bridge the gap betw
 <!-- Activity Graph -->
 <div align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=buzzdotsui&bg_color=0d1117&color=8B5CF6&line=06b6d4&point=ffffff&hide_border=true&area=true&area_color=8B5CF6"/>
-</div>
-
-<br/>
-
----
-
-<br/>
-
-<!-- Animated 3D Snake -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-  </picture>
 </div>
 
 <br/>
@@ -194,17 +166,6 @@ I build **unbreakable, secure-by-default** infrastructure. I bridge the gap betw
     </td>
   </tr>
 </table>
-
-<br/>
-
----
-
-<br/>
-
-<!-- Trophies -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=buzzdotsui&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10"/>
-</div>
 
 <br/>
 
