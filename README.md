@@ -1,12 +1,12 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:8B5CF6,50:06b6d4,100:8B5CF6&height=200&section=header&text=TESTIMONY%20OWOLABI&fontSize=50&animation=fadeIn&fontAlignY=35&fontColor=ffffff&desc=DevSecOps%20Engineer%20%7C%20Cloud%20Architect&descAlignY=55&descSize=18"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:8B5CF6,50:06b6d4,100:8B5CF6&height=200&section=header&text=TESTIMONY%20OWOLABI&fontSize=50&animation=fadeIn&fontAlignY=35&fontColor=ffffff&desc=DevSecOps%20Engineer&descAlignY=55&descSize=20"/>
 </p>
 
 <div align="center">
 
   <!-- Animated Typing -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=I+Build+Systems+That+Don't+Break+%F0%9F%94%A5;Security+First.+Always.+%F0%9F%9B%A1%EF%B8%8F;99.99%25+Uptime+Is+The+Standard+%E2%9A%A1;Automate+Everything+%F0%9F%A4%96" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=DevSecOps+Engineer+%F0%9F%9B%A1%EF%B8%8F;I+Build+Systems+That+Don't+Break+%F0%9F%94%A5;Security+First.+Always.;99.99%25+Uptime+Is+The+Standard+%E2%9A%A1;Automate+Everything+%F0%9F%A4%96" alt="Typing SVG" />
   </a>
 
   <br/><br/>
