@@ -195,8 +195,6 @@ I build **unbreakable, secure-by-default** infrastructure. I bridge the gap betw
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=buzzdotsui&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS"/>
-  <br/><br/>
-  <sub>Engineered with 🔥 by <b>Testimony Owolabi</b> | 2024</sub>
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:06b6d4,100:8B5CF6&height=100&section=footer"/>
