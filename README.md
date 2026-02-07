@@ -1,245 +1,224 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Testimony%20Owolabi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=DevSecOps%20Engineer%20%7C%20Systems%20Architect&descSize=18&descAlignY=52"/>
+<!-- Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f1a,50:1a1a2e,100:0f0f1a&height=120&section=header"/>
 
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=600&height=80&lines=Designing+Deterministic+Infrastructure;99.99%25+System+Availability+%7C+Zero+Trust+Security" alt="Typing SVG" />
+<!-- Profile Section -->
+<a href="https://github.com/buzzdotsui">
+  <img src="https://github.com/buzzdotsui.png" width="100" height="100" style="border-radius: 50%;" alt="Profile"/>
 </a>
 
 <br/>
 
-<!-- Status Badges -->
-<img src="https://img.shields.io/badge/🟢_Status-Open_to_Work-success?style=for-the-badge&labelColor=1a1a2e"/>
-<img src="https://img.shields.io/badge/📍_Location-Akure,_Nigeria-8B5CF6?style=for-the-badge&labelColor=1a1a2e"/>
-<img src="https://img.shields.io/badge/⏰_Timezone-GMT+1-06b6d4?style=for-the-badge&labelColor=1a1a2e"/>
+<!-- Tags -->
+<img src="https://img.shields.io/badge/RELIABILITY_ENGINEERING-1a1a2e?style=flat&labelColor=1a1a2e&color=6366f1&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMiIgaGVpZ2h0PSIxMiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiM2MzY2ZjEiIHN0cm9rZS13aWR0aD0iMiI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiLz48L3N2Zz4="/>
+<img src="https://img.shields.io/badge/DEVSECOPS-22d3ee?style=flat&labelColor=1a1a2e"/>
 
 <br/><br/>
 
-<!-- Social Links -->
-<a href="https://github.com/buzzdotsui"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://linkedin.com/in/owolabitestimony"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://x.com/_buzzdotsui"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-<a href="mailto:owolabitestimony7724@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://owolabitestimony.pages.dev"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+<!-- Name with Typing Effect -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=36&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=500&height=50&lines=Systems+Architect" alt="Systems Architect"/>
+</a>
 
 </div>
 
+<br/>
+
+<!-- Description -->
+<p align="center">
+Designing <b>deterministic infrastructure</b>. I bridge the gap between<br/>
+hardware constraints and cloud scalability, focusing on automated<br/>
+pipelines, security baselines, and <code>99.99%</code> system availability.
+</p>
+
+<br/>
+
+<!-- Buttons -->
+<p align="center">
+<a href="https://github.com/buzzdotsui?tab=repositories">
+  <img src="https://img.shields.io/badge/View_Operations_→-8B5CF6?style=for-the-badge&logoColor=white"/>
+</a>
+&nbsp;&nbsp;
+<a href="mailto:owolabitestimony7724@gmail.com">
+  <img src="https://img.shields.io/badge/Initiate_Contact-1a1a2e?style=for-the-badge&logoColor=white&color=1a1a2e&labelColor=1a1a2e"/>
+</a>
+</p>
+
+<br/>
+
 ---
 
-## 🔧 About Me
-
-> *"If a process relies on manual intervention, it is a bug."*
-
-I bridge the gap between **hardware constraints** and **cloud scalability**, focusing on:
-- 🔒 Automated security pipelines
-- 🏗️ Self-healing architectures  
-- 📊 99.95%+ system availability
-
-My engineering philosophy is derived from **Metallurgical Engineering**: materials have failure points, and so does software. I approach infrastructure with the same rigor used in physical stress testing.
-
----
-
-## ⚡ Core Stack
-
-<div align="center">
-
-<table>
+<!-- Info Bar -->
+<table align="center">
 <tr>
-<td align="center"><b>🖥️ Orchestration</b></td>
-<td><code>Kubernetes</code> <code>Ansible</code> <code>Docker</code> <code>Containerd</code></td>
-</tr>
-<tr>
-<td align="center"><b>📜 Scripting</b></td>
-<td><code>Python</code> <code>Bash</code> <code>Shell</code></td>
-</tr>
-<tr>
-<td align="center"><b>☁️ Cloud</b></td>
-<td><code>AWS</code> <code>GCP</code></td>
-</tr>
-<tr>
-<td align="center"><b>🐧 OS</b></td>
-<td><code>Linux (RHEL/Debian)</code></td>
+<td align="center">
+<sub><b>LOCATION</b></sub><br/>
+📍 Akure, NG
+</td>
+<td align="center">
+<sub><b>TIMEZONE</b></sub><br/>
+🕐 GMT+1
+</td>
+<td align="center">
+<sub><b>AVAILABILITY</b></sub><br/>
+<img src="https://img.shields.io/badge/●_Open_to_Work-22c55e?style=flat&labelColor=0d1117"/>
+</td>
+<td align="center">
+<sub><b>LINKS</b></sub><br/>
+<a href="https://github.com/buzzdotsui"><img src="https://img.shields.io/badge/-181717?style=flat&logo=github&logoColor=white"/></a>
+<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+<a href="https://x.com/_buzzdotsui"><img src="https://img.shields.io/badge/-000000?style=flat&logo=x&logoColor=white"/></a>
+</td>
 </tr>
 </table>
 
-</div>
-
 ---
 
-## 🛠️ Technical Inventory
-
-<details>
-<summary><b>🏗️ Infrastructure</b></summary>
 <br/>
 
-<p>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white"/>
-<img src="https://img.shields.io/badge/Red_Hat-EE0000?style=flat-square&logo=redhat&logoColor=white"/>
-</p>
+<!-- Core Stack Section -->
+<table align="center">
+<tr>
+<td>
+
+### ⚡ CORE STACK
+
+| | |
+|:--|--:|
+| **Orchestration** | `K8s / Ansible` |
+| **Scripting** | `Python / Bash` |
+| **Cloud** | `AWS / GCP` |
+| **OS** | `Linux (RHEL)` |
+
+</td>
+<td width="50">
+</td>
+<td>
+
+### 🛠️ TECHNICAL INVENTORY
+
+<details>
+<summary>Infrastructure</summary>
 
 - Linux Admin (Debian/RHEL)
 - Docker / Containerd
 - VMWare ESXi
-- Bare Metal Provisioning
 - TCP/IP & DNS
-- SSH Key Management
-
 </details>
 
 <details>
-<summary><b>🔄 Automation & CI/CD</b></summary>
-<br/>
-
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white"/>
-<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
-</p>
+<summary>Automation & CI/CD</summary>
 
 - Python (Boto3/Fabric)
-- Bash / Shell Scripting
 - Ansible Playbooks
 - GitHub Actions
-- Terraform Basics
-- GitOps Principles
-
+- Terraform
 </details>
 
 <details>
-<summary><b>📊 Observability</b></summary>
-<br/>
-
-<p>
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
-<img src="https://img.shields.io/badge/Elastic_Stack-005571?style=flat-square&logo=elastic&logoColor=white"/>
-</p>
+<summary>Observability</summary>
 
 - Prometheus / Grafana
 - ELK Stack
-- Nmap Network Audits
-- Wireshark Packet Analysis
-- Systemd Journaling
-- Kernel Tuning
-
+- Nmap / Wireshark
 </details>
 
-<details>
-<summary><b>⚙️ Engineering</b></summary>
+</td>
+</tr>
+</table>
+
 <br/>
 
-- Root Cause Analysis
-- Capacity Planning
-- Disaster Recovery
-- System Hardening (CIS)
-- Load Balancing
-- Cost Optimization
-
-</details>
-
 ---
 
-## 🚀 Field Operations
+<br/>
 
-### Featured Projects
+<!-- Projects Section -->
+<h3 align="center">🚀 FIELD OPERATIONS</h3>
 
-<table>
+<table align="center">
 <tr>
 <td width="50%">
 
-**🔐 Project Cipher**
-
+#### 🔐 Project Cipher
 Automated hardening suite for Debian-based systems. Configures UFW, Fail2Ban, and SSH according to CIS benchmarks.
 
-`Bash` `Security` `Automation`
+<sub>`Bash` `Security` `Automation`</sub>
 
 </td>
 <td width="50%">
 
-**🔍 AutoRecon**
+#### 🔍 AutoRecon
+Python-based surveillance tool for scheduled Nmap scans with baseline diffing and port alerting.
 
-Python-based surveillance tool for scheduled Nmap scans with baseline diffing and alerting on new open ports.
-
-`Python` `Nmap` `Monitoring`
+<sub>`Python` `Nmap` `Monitoring`</sub>
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-**📋 LogSentinel**
+#### 📋 LogSentinel
+Real-time log parser detecting brute-force patterns and triggering IP blocks via iptables.
 
-Real-time log parser for authentication logs. Detects brute-force patterns and triggers IP blocks via iptables.
-
-`Python` `Regex` `SysAdmin`
+<sub>`Python` `Regex` `SysAdmin`</sub>
 
 </td>
 <td width="50%">
 
-**📊 InfraUI**
+#### 📊 InfraUI
+React dashboard visualizing server health metrics - CPU, RAM, and Disk IO stats.
 
-React dashboard visualizing server health metrics including CPU, RAM, and Disk IO stats.
-
-`React` `Dashboard` `Data Viz`
+<sub>`React` `Dashboard` `Data Viz`</sub>
 
 </td>
 </tr>
 </table>
 
----
-
-## 📈 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=buzzdotsui&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=06b6d4&text_color=c9d1d9" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=buzzdotsui&theme=tokyonight&hide_border=true&background=0d1117&ring=8B5CF6&fire=06b6d4&currStreakLabel=8B5CF6" height="165"/>
-
-</div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=buzzdotsui&bg_color=0d1117&color=8B5CF6&line=06b6d4&point=ffffff&area_color=8B5CF6&area=true&hide_border=true" width="95%"/>
-</div>
+<br/>
 
 ---
 
-## 📊 Operational Standards
+<br/>
 
-<div align="center">
+<!-- GitHub Stats -->
+<h3 align="center">📈 ANALYTICS</h3>
 
-<table>
-<tr>
-<td align="center"><b>Uptime Goal</b></td>
-<td align="center"><b>Security Model</b></td>
-<td align="center"><b>IaC Approach</b></td>
-<td align="center"><b>Tooling</b></td>
-</tr>
-<tr>
-<td align="center"><code>99.95% (HA)</code></td>
-<td align="center"><code>Zero Trust</code></td>
-<td align="center"><code>Immutable</code></td>
-<td align="center"><code>Open Source First</code></td>
-</tr>
-</table>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=buzzdotsui&show_icons=true&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=22d3ee&text_color=c9d1d9&hide_title=true" height="150"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=buzzdotsui&hide_border=true&background=0d1117&ring=8B5CF6&fire=22d3ee&currStreakLabel=8B5CF6&sideLabels=c9d1d9&currStreakNum=c9d1d9&dates=6b7280" height="150"/>
+</p>
 
-</div>
+<br/>
 
 ---
 
-<div align="center">
+<br/>
 
-<!-- Profile Views Counter -->
-<img src="https://komarev.com/ghpvc/?username=buzzdotsui&style=for-the-badge&color=8B5CF6&labelColor=1a1a2e"/>
+<!-- Operational Standards -->
+<h3 align="center">📊 OPERATIONAL STANDARDS</h3>
 
-<br/><br/>
+<p align="center">
+<img src="https://img.shields.io/badge/Uptime_Goal-99.95%25_(HA)-8B5CF6?style=flat-square&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/Security-Zero_Trust-22d3ee?style=flat-square&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/IaC-Immutable-8B5CF6?style=flat-square&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/Tooling-Open_Source_First-22d3ee?style=flat-square&labelColor=1a1a2e"/>
+</p>
 
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+<br/>
 
-</div>
+---
+
+<p align="center">
+<a href="https://owolabitestimony.pages.dev">
+  <img src="https://img.shields.io/badge/🌐_owolabitestimony.pages.dev-8B5CF6?style=for-the-badge&labelColor=1a1a2e"/>
+</a>
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=buzzdotsui&style=flat-square&color=8B5CF6&labelColor=1a1a2e"/>
+</p>
+
+<!-- Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f1a,50:1a1a2e,100:0f0f1a&height=100&section=footer"/>
