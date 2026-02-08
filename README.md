@@ -104,6 +104,13 @@ I build **unbreakable, secure-by-default** infrastructure. I bridge the gap betw
 
 <br/>
 
+<div align="center">
+  <!-- Building Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=buzzdotsui&theme=dark&hide_border=true&background=0d1117&ring=8B5CF6&fire=06b6d4&currStreakLabel=8B5CF6" alt="GitHub Streak" />
+</div>
+
+<br/>
+
 <!-- Activity Graph -->
 <div align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=buzzdotsui&bg_color=0d1117&color=8B5CF6&line=06b6d4&point=ffffff&hide_border=true&area=true&area_color=8B5CF6"/>
@@ -172,29 +179,3 @@ I build **unbreakable, secure-by-default** infrastructure. I bridge the gap betw
 ---
 
 <br/>
-
-<div align="center">
-
-### 💬 Ready to Build Something Reliable?
-
-<br/>
-
-<a href="mailto:owolabitestimony7724@gmail.com">
-  <img src="https://img.shields.io/badge/📧_owolabitestimony7724@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<sub>⚡ I respond within 24 hours. Let's engineer something great.</sub>
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=buzzdotsui&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS"/>
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:06b6d4,100:8B5CF6&height=100&section=footer"/>
