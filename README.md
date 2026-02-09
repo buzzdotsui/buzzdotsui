@@ -49,6 +49,7 @@
 
 I build **unbreakable, secure-by-default** infrastructure. I bridge the gap between development speed and production-grade security.
 
+
 | What You Get | How |
 |:-------------|:----|
 | **99.99% Uptime** | Self-healing architectures |
