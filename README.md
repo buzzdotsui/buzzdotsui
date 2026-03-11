@@ -15,7 +15,7 @@
   <!-- CTA Buttons -->
   <a href="mailto:owolabitestimony7724@gmail.com"><img src="https://img.shields.io/badge/🚀_HIRE_ME-8B5CF6?style=for-the-badge&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/✅_AVAILABLE-22c55e?style=for-the-badge"/>
-  <a href="https://owolabitestimony.pages.dev"><img src="https://img.shields.io/badge/PORTFOLIO-0d1117?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://testimonyowolabi.pages.dev"><img src="https://img.shields.io/badge/PORTFOLIO-0d1117?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://x.com/_buzzdotsui"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
 
